@@ -4,6 +4,7 @@ results/
 build/
 dist/
 torch.egg-info/
+datasets/face1/
 */**/__pycache__
 torch/version.py
 torch/csrc/generic/TensorMethods.cpp
